@@ -1,0 +1,685 @@
+VenueId,Name,City
+1,Stade Roland Garros - Court Suzanne Lenglen,Paris
+2,Stade Roland Garros - Court 11,Paris
+3,Stade Roland Garros - Court 7,Paris
+4,Stade Roland Garros - Court 10,Paris
+5,Stade Roland Garros - Court Philippe Chatrier,Paris
+6,Stade Roland Garros - Court 14,Paris
+7,Stade Roland Garros - Court 12,Paris
+8,Stade Roland Garros - Court 6,Paris
+9,Stade Roland Garros - Court 13,Paris
+10,Stade Roland Garros - Court Simonne Mathieu,Paris
+12,Stade Roland Garros - Court 9,Paris
+13,Stade Roland Garros - Court 5,Paris
+14,Stade Roland Garros - Court 4,Paris
+15,Stade Roland Garros - Court 8,Paris
+16,Rod Laver Arena,"Melbourne, VIC"
+17,Melbourne Park - Court 5,"Melbourne, VIC"
+18,Melbourne Park - Court 7,"Melbourne, VIC"
+19,Margaret Court Arena,"Melbourne, VIC"
+20,Memorial Drive Tennis Centre - Centre Court,"Adelaide, SA"
+21,Memorial Drive Tennis Centre - Court 3,"Adelaide, SA"
+22,Memorial Drive Tennis Centre - Show Court 1,"Adelaide, SA"
+23,Memorial Drive Tennis Centre - Court 4,"Adelaide, SA"
+24,Melbourne Park - Court 8,"Melbourne, VIC"
+25,Melbourne Park - Court 13,"Melbourne, VIC"
+26,John Cain Arena,"Melbourne, VIC"
+27,Ken Rosewall Arena,"Parramatta, NSW"
+28,Sydney Olympic Park Tennis Centre - Court 1,"Parramatta, NSW"
+29,Sydney Olympic Park Tennis Centre - Court 5,"Parramatta, NSW"
+30,Sydney Olympic Park Tennis Centre - Court 4,"Parramatta, NSW"
+31,Kia Arena,"Melbourne, VIC"
+32,Melbourne Park - Court 16,"Melbourne, VIC"
+33,1573 Arena,"Melbourne, VIC"
+34,Melbourne Park - Court 17,"Melbourne, VIC"
+35,Melbourne Park - Court 15,"Melbourne, VIC"
+36,Melbourne Park - Court 6,"Melbourne, VIC"
+37,Melbourne Park - Court 3,"Melbourne, VIC"
+38,Melbourne Park - Court 12,"Melbourne, VIC"
+39,Melbourne Park - Court 14,"Melbourne, VIC"
+40,Sibur Arena,Sankt-Petersburg
+41,Sibur Arena - TC Dynamo,Sankt-Petersburg
+42,Dubai Duty Free TC - Centre Court,Dubayy
+43,Dubai Duty Free TC - Court 1,Dubayy
+44,Dubai Duty Free TC - Court 3,Dubayy
+45,Khalifa International Tennis and Squash Complex - Grandstand 1,Doha
+46,Khalifa International Tennis and Squash Complex - Grandstand 2,Doha
+47,Khalifa International Tennis and Squash Complex - Centre Court,Doha
+48,Khalifa International Tennis and Squash Complex - Grandstand 3,Doha
+49,Khalifa International Tennis and Squash Complex - Grandstand 4,Doha
+50,Panamerican Tennis Center - Estadio Akron,"Zapopan, Jalisco"
+51,Panamerican Tennis Center - Court 1,"Zapopan, Jalisco"
+52,Panamerican Tennis Center - Court 2,"Zapopan, Jalisco"
+53,Palais des Sports de Gerland - Court Central,Lyon
+54,Palais des Sports de Gerland - Court 1,Lyon
+55,Club Sonoma - Center Court,"Monterrey, Nuevo León"
+56,Club Sonoma - Court 1,"Monterrey, Nuevo León"
+57,Club Sonoma - Court 4,"Monterrey, Nuevo León"
+58,Indian Wells Tennis Garden - Stadium 1,"Indian Wells, CA"
+59,Indian Wells Tennis Garden - Stadium 9,"Indian Wells, CA"
+60,Indian Wells Tennis Garden - Stadium 2,"Indian Wells, CA"
+61,Indian Wells Tennis Garden - Stadium 6,"Indian Wells, CA"
+62,Indian Wells Tennis Garden - Stadium 7,"Indian Wells, CA"
+63,Indian Wells Tennis Garden - Stadium 4,"Indian Wells, CA"
+64,Indian Wells Tennis Garden - Stadium 3,"Indian Wells, CA"
+65,Indian Wells Tennis Garden - Stadium 8,"Indian Wells, CA"
+66,Indian Wells Tennis Garden - Stadium 5,"Indian Wells, CA"
+67,Hard Rock - Court 2,"Miami Gardens, FL"
+68,Hard Rock Stadium,"Miami Gardens, FL"
+69,Hard Rock - Butch Buchholz,"Miami Gardens, FL"
+70,Hard Rock - Grandstand,"Miami Gardens, FL"
+71,Hard Rock - Court 7,"Miami Gardens, FL"
+72,Hard Rock - Court 3,"Miami Gardens, FL"
+73,Hard Rock - Court 1,"Miami Gardens, FL"
+74,Hard Rock - Court 5,"Miami Gardens, FL"
+75,Country Club de Bogotá - Cancha Central,Bogotá
+76,Country Club de Bogotá - Cancha 2,Bogotá
+77,Country Club de Bogotá - Cancha 3,Bogotá
+78,Family Circle Tennis Center - Althea Gibson Court,"Charleston, SC"
+79,Credit One Stadium,"Charleston, SC"
+80,Family Circle Tennis Center - Court 4,"Charleston, SC"
+81,Family Circle Tennis Center - Court 3,"Charleston, SC"
+82,İstanbul Tenis Kulübü - Centre Court,İstanbul
+83,İstanbul Tenis Kulübü - Court 2,İstanbul
+84,İstanbul Tenis Kulübü - Can Uner Court,İstanbul
+85,Porsche-Arena,Stuttgart
+86,Porsche Arena - Court 1,Stuttgart
+87,Caja Mágica - Manolo Santana Court,Madrid
+88,Caja Mágica - Stadium 3,Madrid
+89,Caja Mágica - Arantxa Sánchez Vicario,Madrid
+90,Caja Mágica - Court 4,Madrid
+91,Caja Mágica - Court 5,Madrid
+92,Saint Malo TC - Court 1,Saint-Malo
+93,Saint Malo TC - Centre Court,Saint-Malo
+94,Saint Malo TC - Court 2,Saint-Malo
+95,Foro Italico - Campo Centrale,Roma
+96,Foro Italico - Court 3,Roma
+97,Foro Italico - Grand Stand Arena,Roma
+98,Foro Italico - Court 1,Roma
+99,Foro Italico - Court 2,Roma
+100,Foro Italico - Pietrangeli,Roma
+101,TC Rüppurr - Center Court,Karlsruhe
+102,TC Rüppurr - Court 1,Karlsruhe
+103,TC Rüppurr - Court 2,Karlsruhe
+104,Lagardère Paris Racing - Centre Court,Paris
+105,Lagardère Paris Racing - Court 2,Paris
+106,Lagardère Paris Racing - Court 1,Paris
+107,TC Strasbourg - Patrice Dominguez Court,Strasbourg
+108,TC Strasbourg - Court 1,Strasbourg
+109,TC Strasbourg - Court 2,Strasbourg
+110,Club des Cheminots - Centre Court,Rabat
+111,Club des Cheminots - Court 1,Rabat
+112,Club des Cheminots - Court 2,Rabat
+113,TC Makarska - Centre Court,Makarska
+114,TC Makarska - Court Studenac,Makarska
+115,TC Makarska - Court 1,Makarska
+116,Sporting Club de Tenis - Centre Court,Valencia
+117,Sporting Club de Tenis - Court 1,Valencia
+118,Nottingham Tennis Centre - Court 1,Nottingham
+119,Nottingham Tennis Centre - Court 2,Nottingham
+120,Nottingham Tennis Centre - Centre Court,Nottingham
+121,Autotron Park - Court 3,Rosmalen
+122,Autotron Park - Court 5,Rosmalen
+123,Autotron Park - Centre Court,Rosmalen
+124,Autotron Park - Court 1,Rosmalen
+125,Autotron Park - Court 2,Rosmalen
+126,Autotron Park - Court 6,Rosmalen
+127,Rot-Weiß TC - Steffi Graf Stadion,Berlin
+128,Rot-Weiß TC - Court 1,Berlin
+129,Rot-Weiß TC - Court 2,Berlin
+130,Tennis Club Gaiba - Court 1,Gaiba Veneto
+131,Tennis Club Gaiba - Centre Court,Gaiba Veneto
+132,Tennis Club Gaiba - Court 3,Gaiba Veneto
+133,Edgbaston Priory Club - Court 1,Birmingham
+134,Edgbaston Priory Club - Ann Jones Court,Birmingham
+135,Mhalunge Balewadi Tennis Complex - Centre Court,"Puṇe, Maharashtra"
+136,Mhalunge Balewadi Tennis Complex - Court 2,"Puṇe, Maharashtra"
+137,Mhalunge Balewadi Tennis Complex - Court 1,"Puṇe, Maharashtra"
+138,Sud de France Arena,Perols
+139,Sud de France Arena - Court 1,Perols
+140,Estadio Mario Alberto Kempes - Cancha 1,"Córdoba, Córdoba"
+141,Estadio Mario Alberto Kempes - Cancha Central,"Córdoba, Córdoba"
+142,Court Guillermo Vilas,"Buenos Aires, Buenos Aires"
+143,BALT - Estadio 2,"Buenos Aires, Buenos Aires"
+144,Ahoy Arena,Rotterdam
+145,Ahoy Arena - Court 1,Rotterdam
+146,Styslinger/Altec TC - Stadium,"Dallas, TX"
+147,Styslinger/Altec TC - Grandstand,"Dallas, TX"
+148,Delray Beach Tennis Center - Stadium,"Delray Beach, FL"
+149,Delray Beach Tennis Center - Court 1,"Delray Beach, FL"
+150,Quadra Guga Kuerten,"Rio de Janeiro, RJ"
+151,Jockey Club Brasileiro - Quadra 1,"Rio de Janeiro, RJ"
+152,Jockey Club Brasileiro - Quadra 2,"Rio de Janeiro, RJ"
+153,Jockey Club Brasileiro - Quadra 4,"Rio de Janeiro, RJ"
+154,Palais des sports de Marseille,Marseille
+155,Palais des sports de Marseille - Court 1,Marseille
+156,Arena GNP Seguros - Estadio,"Acapulco de Juárez, Guerrero"
+157,Arena GNP Seguros - Grand Stand Caliente MX,"Acapulco de Juárez, Guerrero"
+158,Arena GNP Seguros - Cancha 2,"Acapulco de Juárez, Guerrero"
+159,Arena GNP Seguros - Cancha 1,"Acapulco de Juárez, Guerrero"
+160,Las Flores - Court 1,Santiago
+161,Las Flores - Court Central Jaime Fillol,Santiago
+162,Las Flores - Court 2,Santiago
+163,Royal Tennis Club de Marrakech - Centre Court,Marrakesh
+164,Royal Tennis Club de Marrakech - Court 2,Marrakesh
+165,Royal Tennis Club de Marrakech - Court 5,Marrakesh
+166,Royal Tennis Club de Marrakech - Court 4,Marrakesh
+167,River Oaks Country Club - Court 3,"Houston, TX"
+168,River Oaks Country Club - Stadium Court,"Houston, TX"
+169,River Oaks Country Club - Court 7,"Houston, TX"
+170,Monte Carlo Country Club - Court des Princes,Roquebrune-Cap-Martin
+171,Monte Carlo Country Club - Court 2,Roquebrune-Cap-Martin
+172,Monte Carlo Country Club - Court Rainier III,Roquebrune-Cap-Martin
+173,Monte Carlo Country Club - Court 11,Roquebrune-Cap-Martin
+174,Monte Carlo Country Club - Court 9,Roquebrune-Cap-Martin
+175,Real Club de Tennis Barcelona - Pista Jan Kodes,Barcelona
+176,Real Club de Tennis Barcelona - Pista 2,Barcelona
+177,Real Club de Tennis Barcelona - Pista Rafa Nadal,Barcelona
+178,Real Club de Tennis Barcelona - Pista 3,Barcelona
+179,MTTC Iphitos - Court 1,München
+180,MTTC Iphitos - Court 2,München
+181,MTTC Iphitos - Centre Court,München
+182,Clube de Ténis do Estoril - Estadio Millennium,Estoril
+183,Clube de Ténis do Estoril - Court Cascais,Estoril
+184,Clube de Ténis do Estoril - Court 3,Estoril
+185,Vélodrome Georges Prévéral - Centre Court,Lyon
+186,Vélodrome Georges Prévéral - Court 1,Lyon
+187,TC Genève - Center Court,Genève
+188,TC Genève - Court 1,Genève
+189,TC Weissenhof - Centre Court,Stuttgart
+190,TC Weissenhof - Match Court 1,Stuttgart
+191,Queen's Club - Court 1,London
+192,Queen's Club - Centre Court,London
+193,Queen's Club - Court 5,London
+194,Gerry Weber Stadion,Halle (Westfalen)
+195,Sportpark Halle - Schauinsland-Reisen Court,Halle (Westfalen)
+196,Sportpark Halle - Court 2,Halle (Westfalen)
+197,Devonshire Park - Court 5,Eastbourne
+198,Devonshire Park - Court 2,Eastbourne
+199,Devonshire Park - Court 1,Eastbourne
+200,Devonshire Park - Centre Court,Eastbourne
+201,TC Bad Homburg - Centre Court,Bad Homburg vor der Höhe
+202,TC Bad Homburg - Court 1,Bad Homburg vor der Höhe
+203,Mallorca Country Club - Centre Court,Calvià
+204,Mallorca Country Club - Grandstand,Calvià
+205,Devonshire Park - Court 4,Eastbourne
+206,Devonshire Park - Court 12,Eastbourne
+207,TC Bad Homburg - Court 2,Bad Homburg vor der Höhe
+208,Mallorca Country Club - Court 2,Calvià
+209,All England Club - Court 14,London
+210,All England Club - Court 9,London
+211,All England Club - Court 16,London
+212,All England Club - Court 8,London
+213,All England Club - Court 2,London
+214,All England Club - Court 1,London
+215,All England Club - Court 18,London
+216,All England Club - Court 15,London
+217,All England Club - Centre Court,London
+218,All England Club - Court 10,London
+219,All England Club - Court 3,London
+220,All England Club - Court 12,London
+221,All England Club - Court 4,London
+222,All England Club - Court 6,London
+223,All England Club - Court 17,London
+224,All England Club - Court 11,London
+225,All England Club - Court 7,London
+226,All England Club - Court 5,London
+227,Båstad Tennis Stadium,Båstad
+228,Båstad TC - Court 2,Båstad
+229,Båstad TC - Court 1,Båstad
+230,Båstad TC - Court 3,Båstad
+231,AS Open 88 - Centre Court,Contrexéville
+232,AS Open 88 - Court 1,Contrexéville
+233,AS Open 88 - Court 2,Contrexéville
+234,TC Stade Lausanne - Court 1,Lausanne
+235,TC Stade Lausanne - Centre Court,Lausanne
+236,Rome Tennis Academy - Centre Court,Budapest
+237,Rome Tennis Academy - Grandstand 4,Budapest
+238,International Tennis Hall of Fame - Center Court 1,"Newport, RI"
+239,TC Stade Lausanne - Court 2,Lausanne
+240,International Tennis Hall of Fame - Court 2,"Newport, RI"
+241,International Tennis Hall of Fame - Court 1,"Newport, RI"
+242,Rome Tennis Academy - Court 1,Budapest
+243,Tennisstadion am Rothenbaum,Hamburg
+244,Rothenbaum Tennis Center - Court 3,Hamburg
+245,Rothenbaum Tennis Center - Court 1,Hamburg
+246,Rothenbaum Tennis Center - Court 2,Hamburg
+247,Country Time Club - Centre Court,Palermo
+248,Country Time Club - Court 6,Palermo
+249,Roy Emerson Arena,Gstaad
+250,Gstaad TC - Court 1,Gstaad
+251,Rothenbaum Tennis Center - Court 4,Hamburg
+252,Country Time Club - Court 2,Palermo
+253,Legia Tenis & Golf - Court 2,Warszawa
+254,Legia Tenis Stadium,Warszawa
+255,TK Sparta Praha - Centre Court,Praha
+256,TK Sparta Praha - Court 1,Praha
+257,Atlantic Station - Grandstand,"Atlanta, GA"
+258,Atlantic Station - Centre Court,"Atlanta, GA"
+259,TC Stella Maris - Grandstand,Umag
+260,ATP Stadion Goran Ivanišević,Umag
+261,Tennis Stadium Kitzbühel,Kitzbühel
+262,Kitzbüheler TC - Court Kuechenmeister,Kitzbühel
+263,Kitzbüheler TC - Granstand,Kitzbühel
+264,TK Sparta Praha - Court 2,Praha
+265,Legia Tenis & Golf - Court 3,Warszawa
+266,TC Stella Maris - Court 1,Umag
+267,TC Stella Maris - Court 2,Umag
+268,Rock Creek Park - Court 4,"Washington, D.C."
+269,Rock Creek Park - John Harris Court,"Washington, D.C."
+270,Rock Creek Park - Stadium,"Washington, D.C."
+271,Rock Creek Park - Grandstand,"Washington, D.C."
+272,Rock Creek Park - Court 5,"Washington, D.C."
+273,Cabo Sports Complex - Grandstand Caliente,"Los Cabos, Baja California Sur"
+274,Cabo Sports Complex - Stadium,"Los Cabos, Baja California Sur"
+275,San Jose State University - Stadium,"San José, CA"
+276,Baza Sportiva Ciric - Court 5,Iaşi
+277,Baza Sportiva Ciric - Centre Court,Iaşi
+278,San Jose State University - Court 1,"San José, CA"
+279,Baza Sportiva Ciric - Court 6,Iaşi
+280,Cabo Sports Complex - Court 2,"Los Cabos, Baja California Sur"
+281,Cabo Sports Complex - Court 1,"Los Cabos, Baja California Sur"
+282,Baza Sportiva Ciric - Court 1,Iaşi
+283,Stade IGA - Rogers Court,"Montréal, QC"
+284,Stade IGA - Court Central,"Montréal, QC"
+285,Stade IGA - Court 9,"Montréal, QC"
+286,Sobeys Stadium - Centre Court,"Toronto, ON"
+287,Sobeys Stadium - Motorola razr Grandstand Court,"Toronto, ON"
+288,Sobeys Stadium - Court 1,"Toronto, ON"
+289,The Thoreau Club - Centre Court,"Concord, MA"
+290,The Thoreau Club - Court 6,"Concord, MA"
+291,The Thoreau Club - Court 2,"Concord, MA"
+292,Sobeys Stadium - Court 4,"Toronto, ON"
+293,Stade IGA - Court 5,"Montréal, QC"
+294,Sobeys Stadium - Court 3,"Toronto, ON"
+295,Lindner Family Tennis Center - P&G Stadium Court,"Cincinnati, OH"
+296,Hollyburn Country Club - Centre Court,"West Vancouver, BC"
+297,Hollyburn Country Club - Polygon Court,"West Vancouver, BC"
+298,Lindner Family Tennis Center - Grandstand Court,"Cincinnati, OH"
+299,Lindner Family Tennis Center - Court 3,"Cincinnati, OH"
+300,Lindner Family Tennis Center - Court 10,"Cincinnati, OH"
+301,Lindner Family Tennis Center - Court 4,"Cincinnati, OH"
+302,Hollyburn Country Club - Court 2,"West Vancouver, BC"
+303,Hollyburn Country Club - Court 1,"West Virginia, AR"
+304,Lindner Family Tennis Center - Court 7,"Cincinnati, OH"
+305,Lindner Family Tennis Center - Court 11,"Cincinnati, OH"
+306,Lindner Family Tennis Center - Court 8,"Cincinnati, OH"
+307,Wake Forest Tennis Complex - Stadium,"Winston-Salem, NC"
+308,Wake Forest Tennis Complex - Court 2,"Winston-Salem, NC"
+309,Wake Forest Tennis Complex - Court 3,"Winston-Salem, NC"
+310,Les Loisirs De Granby - Centre Court,"Granby, QC"
+311,Jacobs Pavilion - Court 2,"Cleveland, OH"
+312,Wake Forest Tennis Complex - Court 4,"Winston-Salem, NC"
+313,Les Loisirs De Granby - Court 8,"Granby, QC"
+314,Les Loisirs De Granby - Court 4,"Granby, QC"
+315,Jacobs Pavilion - Motorola Edge Stadium Court,"Cleveland, OH"
+316,Jacobs Pavilion - Court 1,"Cleveland, OH"
+317,Flushing Meadows - Louis Armstrong Stadium,New York
+318,Flushing Meadows - Arthur Ashe Stadium,New York
+319,Flushing Meadows - Court 17,New York
+320,Flushing Meadows - Court 14,New York
+321,Flushing Meadows - Court 7,New York
+322,Flushing Meadows - Court 5,New York
+323,Flushing Meadows - Court 10,New York
+324,Flushing Meadows - Court 13,New York
+325,Flushing Meadows - Court 4,New York
+326,Flushing Meadows - Court 11,New York
+327,Flushing Meadows - Court 12,New York
+328,Flushing Meadows - Court 15,New York
+329,Flushing Meadows - Court 6,New York
+330,Flushing Meadows - Court 9,New York
+331,Flushing Meadows - Grandstand,New York
+332,Flushing Meadows - Court 8,New York
+333,Circolo Tennis Bari - Lapietra Center Court,Bari
+334,Circolo Tennis Bari - Ferrovie del Sud Est Court,Bari
+335,Circolo Tennis Bari - Court 2,Bari
+336,Tennis Arena Portorož - Centre Court,Portorož
+337,Tennis Arena Portorož - Court 1,Portorož
+338,SDAT Tennis Stadium - Centre Court,"Chennai, Tamil Nadu"
+339,SDAT Tennis Stadium - Court 1,"Chennai, Tamil Nadu"
+340,SDAT Tennis Stadium - Court 2,"Chennai, Tamil Nadu"
+341,Centrul Național de Tenis - Centre Court,Bucureşti
+342,Centrul Național de Tenis - Court 8,Bucureşti
+343,Tennis Arena Portorož - Court 2,Portorož
+344,Centrul Național de Tenis - Court 10,Bucureşti
+345,Arènes de Metz,Metz
+346,Seoul Olympic Park Tennis Center - Stadium,Seoul
+347,Seoul Olympic Park Tennis Center - Court 2,Seoul
+348,Ariake Coliseum,Tōkyō
+349,Barnes Tennis Centre - Stadium Court,"San Diego, CA"
+350,Ariake Tennis Park - Show Court,Tōkyō
+351,Seoul Olympic Park Tennis Center - Court 13,Seoul
+352,Arènes de Metz - Court 1,Metz
+353,Barnes Tennis Centre - Grandstand Court,"San Diego, CA"
+354,Tennis Club Parma - Centre Court,Parma
+355,Tennis Club Parma - Grandstand Court,Parma
+356,Arena Armeec,Sofia
+357,Arena Armeec - Court 1,Sofia
+358,Tennis Club Parma - Court 1,Parma
+359,FORUS Tennis Centre - Centre Court,Tallinn
+360,FORUS Tennis Centre - Court 1,Tallinn
+361,Tel Aviv International Convention Centre - Central Court,Tel Aviv
+362,Tel Aviv International Convention Centre - Court 1,Tel Aviv
+363,Daulet National Tennis Centre - Centre Court,Nursultan
+364,Daulet National Tennis Centre - Court 1,Astana
+365,Ostravar Aréna,Ostrava
+366,Kinoshita Group Arena,Tōkyō
+367,Skanes Family Resort - Centre Court,Monastir
+368,Skanes Family Resort - Court 1,Monastir
+369,Ostravar Aréna - Court 1,Ostrava
+370,Skanes Family Resort - Court 2,Monastir
+371,Ariake Tennis Park - Indoor Court 5,Tōkyō
+372,Hotel Skanes Family Monastir - Court 1,Monastir
+373,BT Arena - Court 1,Cluj-Napoca
+374,BT Arena - Court 2,Cluj-Napoca
+375,Palacio de Deportes de Gijón,Gijon
+376,Palacio de Deportes de Gijón - Court 1,Gijon
+377,Palazzo Wanny,Firenze
+378,Barnes Tennis Centre - Hologic Court 2,"San Diego, CA"
+379,Palazzo Wanny - Court 1,Firenze
+380,Barnes Tennis Centre - Court 1,"San Diego, CA"
+381,Kungliga Tennishallen - Centre Court,Stockholm
+382,Lotto Arena,Antwerpen
+383,Lotto Arena - Court 1,Antwerpen
+384,Kungliga Tennishallen - Showcourt,Stockholm
+385,Napoli Tennis Club - Arena,Napoli
+386,Kindarena,Rouen
+387,Panamerican Tennis Center  - Grandstand Caliente,"Zapopan, Jalisco"
+388,Napoli Tennis Club -  Court 1,Napoli
+389,Kungliga Tennishallen - Court 1,Stockholm
+390,Kindarena - Court 1,Rouen
+391,Napoli Tennis Club - Court 2,Napoli
+392,Napoli Tennis Club - Campo D'Avalos,Napoli
+393,Kindarena - Celince Dumerc,Rouen
+394,Wiener Stadthalle,Wien
+395,Wiener Stadthalle - #Glaubandich Court,Wien
+396,St. Jakobshalle,Basel
+397,St. Jakobshalle - Court 1,Basel
+398,Centro Libanes - Cancha 3,"Tampico, Tamaulipas"
+399,Centro Libanes - Centre Court,"Tampico, Tamaulipas"
+400,Centro Libanes - Cancha 2,"Tampico, Tamaulipas"
+401,Accor Arena,Paris
+402,Accor Arena - Court 1,Paris
+403,Accor Arena - Court 2,Paris
+404,Greater Midland Tennis Center - Centre Court,"Midland, MI"
+405,Dickies Arena,"Fort Worth, TX"
+406,Greater Midland Tennis Center - Court 4,"Midland, MI"
+407,Hacienda Chicureo Club - Centre Court,Colina
+408,Hacienda Chicureo Club - Court 3,Colina
+409,Allianz Cloud,Milano
+410,Hacienda Chicureo Club - Court 5,Colina
+411,Inalpi Arena,Torino
+412,BALT - Estadio 3,"Buenos Aires, Buenos Aires"
+413,Carrasco LTC - Main Court,Montevideo
+414,Carrasco LTC - Court 1,Montevideo
+415,Carrasco LTC - Court 2,Montevideo
+416,Poliesportiu d'Andorra,Andorra la Vella
+417,Poliesportiu d'Andorra - Court 1,Andorra la Vella
+418,Arena Loire,Trélazé
+419,Memorial Drive Tennis Centre - Court 2,"Adelaide, SA"
+420,ASB Tennis Centre - Stadium,Auckland
+421,ASB Tennis Centre - Grandstand,Auckland
+422,ASB Tennis Centre - Court 1,Auckland
+423,ASB Tennis Centre - Indoor 1,Auckland
+424,ASB Tennis Centre - Indoor 2,Auckland
+425,ASB Tennis Centre - Court 2,Auckland
+426,True Arena - Centre Court,Hua Hin
+427,True Arena - Court 1,Hua Hin
+428,True Arena - Court 2,Hua Hin
+429,Club Campestre de Cali - Centre Court,"Cali, Valle del Cauca"
+430,Club Campestre de Cali - Court 3,"Cali, Valle del Cauca"
+431,Club Campestre de Cali - Court 2,"Cali, Valle del Cauca"
+432,Club Campestre de Cali - Court 4,"Cali, Valle del Cauca"
+433,TipsArena Linz,Linz
+434,TipsArena Linz - Court 1,Linz
+435,Dubai Duty Free TC - Court 2,Dubayy
+436,Yucatán Country Club - Centre Court,Mérida
+437,Yucatán Country Club - Court 1,Mérida
+438,Yucatán Country Club - Court 2,Mérida
+439,Westwood Country Club - Centre Court,"Austin, TX"
+440,Westwood Country Club - Grandstand,"Austin, TX"
+441,Westwood Country Club - Court 10,"Austin, TX"
+442,Real Club de Tenis Barcelona - Pista Andres Gimeno,Barcelona
+443,Nacionalni teniski centar TCPC - Centre Court,Banja Luka
+444,Nacionalni teniski centar TCPC - Grandstand,Banja Luka
+445,Nacionalni teniski centar - Court 1,Banja Luka
+446,MTTC Iphitos - Court 3,München
+447,Palais des Sports de Beaublanc,Limoges
+448,Caja Mágica - Court 8,Madrid
+449,Caja Mágica - Court 7,Madrid
+450,Caja Mágica - Court 6,Madrid
+451,Club Tennis Reus Monterols - Centre Court,Reus
+452,Club Tennis Reus Monterols - Court 1,Reus
+453,Club Tennis Reus Monterols - Court 2,Reus
+454,Foro Italico - Court 12,Roma
+455,Foro Italico - Court 4,Roma
+456,Match Ball Firenze Country Club - Court 2,Firenze
+457,Match Ball Firenze Country Club - Centre Court,Bagno a Ripoli
+458,Match Ball Firenze Country Club - Court 3,Firenze
+459,Match Ball Firenze Country Club - Court 5,Firenze
+460,Match Ball Firenze Country Club - Court 4,Firenze
+461,Vélodrome Georges Prévéral - Court 2,Lyon
+462,TC Genève - Court 2,Genève
+463,Stade Roland Garros - Court 3,Paris
+464,Stade Roland Garros - Court 2,Paris
+465,Club Tennis la Bisbal - Centre Court,Girona
+466,Club Tennis la Bisbal - Court 1,Girona
+467,TC Weissenhof - Colosseum,Stuttgart
+468,Sporting Club de Tenis - Court 5,Valencia
+469,TC Weissenhof - Match Court 2,Stuttgart
+470,Edgbaston Priory Club - Court 2,Birmingham
+471,Tennis Club Gaiba - Court 2,Gaiba Veneto
+472,Sportpark Halle - Court 3,Halle (Westfalen)
+473,Les Loisirs De Granby - Court 1,"Granby, QC"
+474,Country Time Club - Court 1,Palermo
+475,Legia Tenis & Golf - Court 1,Warszawa
+476,Rothenbaum Tennis Center - Court 5,Hamburg
+477,TC Stella Maris - Court 4,Umag
+478,Legia Tenis & Golf - Court 13,Warszawa
+479,Legia Tenis & Golf - Court 12,Warszawa
+480,Stade IGA - Court 6,"Montréal, QC"
+481,Taube Tennis Center - Court 1,"Stanford, CA"
+482,Taube Tennis Center - Court 6,"Stanford, CA"
+483,Parque Distrital de Raquetas - Centre Court,Barranquilla
+484,Parque Distrital de Raquetas - Court 1,Barranquilla
+485,Taube Tennis Center - Court 3,"Stanford, CA"
+486,Taube Tennis Center - Court 4,"Stanford, CA"
+487,Parque Distrital de Raquetas - Court 2,Barranquilla
+488,XS Tennis Village - Centre Court,"Chicago, IL"
+489,XS Tennis Village - Court 1,"Chicago, IL"
+490,XS Tennis Village - Court 2,"Chicago, IL"
+491,Circolo Tennis Bari - Court Maldarizzi,Bari
+492,Circolo Tennis Bari - Court Tato Paride,Bari
+493,Utsubo Tennis Center - Centre Court,Ōsaka
+494,Utsubo Tennis Center - Court 1,Ōsaka
+495,Trg Respublike - Mima Jaušovec Court,Ljubljana
+496,Tivoli Tennis Center - Court 1,Ljubljana
+497,Utsubo Tennis Center - Court 8,Ōsaka
+498,Tivoli Tennis Center - Court 3,Ljubljana
+499,Tivoli Tennis Center - Court 8,Ljubljana
+500,Nansha International Tennis Centre - Centre Court,Guangzhou
+501,Nansha International Tennis Centre - Court 2,Guangzhou
+502,Panamerican Tennis Center - Court 3,"Zapopan, Jalisco"
+503,Nansha International Tennis Centre - Court 5,Guangzhou
+504,Hengqin International Tennis Center - Huafa Centre Court,Zhūhǎi
+505,Sichuan International Tennis Center - Centre Court,Chengdu
+506,Sichuan International Tennis Center - Court 1,Chengdu
+507,Sichuan International Tennis Center - Court 2,Chengdu
+508,Hengqin International Tennis Center - Court 1,Zhūhǎi
+509,Hengqin International Tennis Center - Court 2,Zhūhǎi
+510,Yinzhou Tennis Center - Centre Court,Ningbo
+511,Yinzhou Tennis Center - Court 7,Ningbo
+512,Yinzhou Tennis Center - Court 8,Ningbo
+513,Yinzhou Tennis Center - Court 6,Ningbo
+514,National Tennis Center - Diamond Court,Beijing
+515,National Tennis Center - Lotus Court,Beijing
+516,National Tennis Center - Brad Drewett Court,Beijing
+517,National Tennis Center - Moon Court,Beijing
+518,National Tennis Center - Court 2,Beijing
+519,National Tennis Center - Court 6,Beijing
+520,Qizhong Stadium,Shanghai
+521,Qizhong Forest Sports City - Show Court 3,Shanghai
+522,Qizhong Forest Sports City - Grandstand 2,Shanghai
+523,Qizhong Forest Sports City - Court 4,Shanghai
+524,Qizhong Forest Sports City - Court 7,Shanghai
+525,Qizhong Forest Sports City - Court 6,Shanghai
+526,Victoria Park - Centre Court,Hong Kong
+527,Victoria Park - Court 1,Hong Kong
+528,Henan Stadium Centre - Centre Court,Zhengzhou
+529,Henan Stadium Centre - Grandstand,Zhengzhou
+530,Henan Stadium Centre - Court 1,Zhengzhou
+531,Victoria Park - Court 2,Hong Kong
+532,Nanchang Tennis Center - Centre Court,Nanchang
+533,Nanchang Tennis Center - Court 2,Nanchang
+534,Nanchang Tennis Center - Court 1,Nanchang
+535,Plaza Quintana Roo - Centre Court,Cancún
+536,Hacienda Chicureo Club - Court 1,Colina
+537,Jurerê Sports Center - Central Court,"Florianópolis, SC"
+538,Jurerê Sports Center - Court 1,"Florianópolis, SC"
+539,Jurerê Sports Center - Court 2,"Florianópolis, SC"
+540,Queensland Tennis Centre - Rafter Arena,"Brisbane, QLD"
+541,Queensland Tennis Centre - Showcourt 2,"Brisbane, QLD"
+542,Queensland Tennis Centre - Showcourt 1,"Brisbane, QLD"
+543,Queensland Tennis Centre - Court 10,"Brisbane, QLD"
+544,Queensland Tennis Centre - Court 14,"Brisbane, QLD"
+545,Queensland Tennis Centre - Court 6,"Brisbane, QLD"
+546,Canberra Tennis Centre - Centre Court,"Canberra, ACT"
+547,Canberra Tennis Centre - Court 2,"Canberra, ACT"
+548,Canberra Tennis Centre - Court 1,"Canberra, ACT"
+549,Canberra Tennis Centre - Court 4,"Canberra, ACT"
+550,Hobart International Tennis Centre - Centre Court,"Hobart, TAS"
+551,Hobart International Tennis Centre - West Court,"Hobart, TAS"
+552,Hobart International Tennis Centre - Court 8,"Hobart, TAS"
+553,Abu Dhabi International Tennis Complex - Centre Court,Abū Ẓabī
+554,Abu Dhabi International Tennis Complex - Court 1,Abū Ẓabī
+555,Cricket Club of India - Center Court,"Mumbai, Maharashtra"
+556,Cricket Club of India - Court 1,"Mumbai, Maharashtra"
+557,Cricket Club of India - Court 2,"Mumbai, Maharashtra"
+558,Estadio Mario Alberto Kempes - Cancha 2,"Córdoba, Córdoba"
+559,Ahoy Arena - Court 2,Rotterdam
+560,Parque Parota - Centre Court,Puerto Vallarta
+561,Parque Parota - Court 1,Puerto Vallarta
+562,Family Circle Tennis Center - Court 1,"Charleston, SC"
+563,Hard Rock - Court 6,"Miami Gardens, FL"
+564,Megasaray Club Belek - Centre Court,Serik
+565,Club Deportivo Potosino - Stadium,"San Luis Potosí, San Luis Potosí"
+566,Club Deportivo Potosino - Court 8,"San Luis Potosí, San Luis Potosí"
+567,Club Deportivo Potosino - Court 7,"San Luis Potosí, San Luis Potosí"
+568,Megasaray Tennis Academy - Court 1,Antalya
+569,Megasaray Tennis Academy - Court 5,Antalya
+570,Megasaray Tennis Academy - Court 3,Antalya
+571,Megasaray Tennis Academy - Centre Court,Antalya
+572,Foro Italico - Court 13,Roma
+573,Club Tennis Lleida - Centre Court,Lleida
+574,Club Tennis Lleida - Court 2,Lleida
+575,Club Tennis Lleida - Court 1,Lleida
+576,Foro Italico - Court 6,Roma
+577,Lagardère Paris Racing - Court 3,Paris
+578,Sporting Club de Tenis - Court 7,Valencia
+579,Nottingham Tennis Centre - Court 3,Nottingham
+580,Sportpark Halle - Court 1,Halle (Westfalen)
+581,Mallorca Country Club - Court 3,Palma de Mallorca
+582,Rome Tennis Academy - Grand Court,Budapest
+583,TK Sparta Praha - Practice Court 1,Praha
+584,Kitzbüheler TC - Court 1,Kitzbühel
+585,TK Sparta Praha - Court 14,Praha
+586,TK Sparta Praha - Court 12,Praha
+587,Legia Tenis & Golf - Court 4,Warszawa
+588,Jacobs Pavilion - Centre Court,"Cleveland, OH"
+589,Hotel Skanes Family Monastir - Court 2,Monastir
+590,Tivoli Tennis Center - Centre Court,Ljubljana
+591,Tivoli Tennis Center - Court 7,Ljubljana
+592,Centrul Național de Tenis - Court 6,Bucureşti
+593,National Tennis Center - Court 5,Beijing
+594,National Tennis Center - Court 3,Beijing
+595,Ariake Tennis Park - Court 1,Tōkyō
+596,National Tennis Center - Court 4,Beijing
+597,Almaty Arena - Court 1,Almaty
+598,Almaty Arena,Almaty
+599,King Saud University Indoor Arena,ar-Riyāḍ
+600,Hacienda Chicureo Club - Grandstand,Colina
+601,LTP Mount Pleasant - Centre Court,"Mount Pleasant, SC"
+602,LTP Mount Pleasant - Court 7,"Mount Pleasant, SC"
+603,LTP Mount Pleasant - Court 3,"Mount Pleasant, SC"
+604,Hangzhou Olympic Sports Center - Centre Court,Hangzhou
+605,Hangzhou Olympic Sports Center - Court 1,Hangzhou
+606,Belgrade Arena,Beograd
+607,Belgrade Arena - Grandstand,Beograd
+608,Optics Valley International Tennis Center - Centre Court,Wuhan
+609,Optics Valley International Tennis Center - Court 1,Wuhan
+610,Optics Valley International Tennis Center - Court 2,Wuhan
+611,Optics Valley International Tennis Center - Court 3,Wuhan
+612,Club de Tenis Santa Cruz - Cancha 3,Santa Cruz
+613,Club de Tenis Santa Cruz - Cancha Central,Santa Cruz
+614,Club de Tenis Santa Cruz - Cancha 2,Santa Cruz
+615,Canberra Tennis Centre - Court 5,"Canberra, ACT"
+616,Melbourne Park - Court 11,"Melbourne, VIC"
+617,Kallang Tennis Centre - Centre Court,Singapore
+618,Kallang Tennis Centre - Court 1,Singapore
+619,BT Arena - Centre Court,Cluj-Napoca
+620,Abu Dhabi International Tennis Complex - Court 2,Abū Ẓabī
+621,Westwood Country Club - Court 1,"Austin, TX"
+622,Westwood Country Club - Court 11,"Austin, TX"
+623,Yucatán Country Club - Akron Stadium,Mérida
+624,Cancún Country Club Residencial & Golf - Estadio El Tinto,Cancún
+625,Cancún Country Club Residencial & Golf - Grandstand Katan,Cancún
+626,Cancún Country Club Residencial & Golf - Cancha 1,Cancún
+627,Centro Nacional de Tenis Puerto Cabello,Puerto Cabello
+628,Centrul Național de Tenis - Court 1,Bucureşti
+629,Centrul Național de Tenis - Court 2,Bucureşti
+630,Country Club de Bogotá - Cancha 4,Bogotá
+631,Centro Desportivo Nacional do Jamor - Court 1,Oeiras
+632,Centro Desportivo Nacional do Jamor - Court 2,Oeiras
+633,Centro Desportivo Nacional do Jamor - Center Court,Oeiras
+634,John Cain Arena,"Melbourne, VIC"
+635,Foro Italico - Court 14,Roma
+636,Foro Italico - Court 15,Roma
+637,Foro Italico - SuperTennis Arena,Roma
+638,Edgbaston Priory Club - Court 4,Birmingham
+639,Edgbaston Priory Club - Court 5,Birmingham
+640,TC Makarska - Court 2,Makarska
+641,Circolo Tennis Bari - Court 1,Bari
+642,Edgbaston Priory Club - Court 6,Birmingham
+643,Porsche Arena - Court 2,Stuttgart
+644,Queen's Club - Court 6,London
+645,Tennis Club Grado - Court Degrassi,Grado
+646,Tennis Club Grado - Court 4,Grado
+647,Mallorca Country Club - Court 1,Palma de Mallorca
+648,All England Club - Court 13,London
+649,International Tennis Hall of Fame - Court 3,"Newport, RI"
+650,International Tennis Hall of Fame - Center Court 2,"Newport, RI"
+651,International Tennis Hall of Fame - Court 6,"Newport, RI"
+652,Complexo Ténis Monte Aventino - Court Eupago,Porto
+653,Complexo Ténis Monte Aventino - Court Carregosa,Porto
+654,Complexo Ténis Monte Aventino - Court McDonal,Porto
+655,Country Time Club - Court 9,Palermo
+656,Country Time Club - Court 8,Palermo
+657,Stade IGA - Court 1,"Montréal, QC"
+658,Lindner Family Tennis Center - Court 6,"Cincinnati, OH"
+659,Lindner Family Tennis Center - Champions' Court,"Cincinnati, OH"
+660,Lindner Family Tennis Center - Court 9,"Cincinnati, OH"
+661,Club Sonoma - Grandstand,"Monterrey, Nuevo León"
+662,Wake Forest Tennis Complex - Court 5,"Winston-Salem, NC"
+663,Olympic Tennis Centre,"Rio de Janeiro, RJ"
+664,Jockey Club de Rosario,"Rosario, Santa Fe"
+665,Seoul Olympic Park Tennis Center - Grandstand,Seoul
+666,Associazione Tennis Tolentino - Centre Court,Tolentino
+667,Associazione Tennis Tolentino - Court 1,Tolentino
+668,Associazione Tennis Tolentino - Court 2,Tolentino
+669,Complexo Municipal de Ténis - Caldas da Rainha,Caldas da Rainha
+670,Complexo Municipal de Ténis - Matinados,Caldas da Rainha
+671,Complexo Municipal de Ténis - Full Protein,Caldas da Rainha
+672,Changsha Tennis Centre - Centre Court,Changshu
+673,Changsha Tennis Centre - Court 2,Changshu
+674,Changsha Tennis Centre - Court 3,Changsha
+675,Changsha Tennis Centre - Court 4,Changshu
+676,Zhejiang Huzhou International Tennis Center - Court 1,Huzhou
+677,Zhejiang Huzhou International Tennis Center - Court 7,Huzhou
+678,Zhejiang Huzhou International Tennis Center - Court 2,Huzhou
+679,Real Club Tenis de San Sebastián - Court 7,Donostia
+680,Real Club Tenis de San Sebastián - Centre Court,Donostia
+681,Real Club Tenis de San Sebastián - Court 8,Donostia
+682,Hangzhou Olympic Sports Center - Court 2,Hangzhou
+683,Seoul Olympic Park Tennis Center - Court 1,Seoul
+684,Chase Center,"San Francisco, CA"
+685,Ariake Tennis Park - Court 2,Tōkyō

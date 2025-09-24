@@ -1,0 +1,198 @@
+CompetitionId,AreaId,AreaName,Gender,Name
+1,16,Argentina,Both,Buenos Aires
+2,16,Argentina,Both,Cordoba
+3,19,Australia,Both,Sydney
+4,19,Australia,Both,Australian Open
+5,19,Australia,Both,Adelaide
+6,19,Australia,Both,Melbourne 1
+7,19,Australia,Female,Melbourne 2
+8,19,Australia,Both,Adelaide 2
+9,20,Austria,Both,Kitzbuhel
+10,20,Austria,Both,Vienna
+11,27,Belgium,Both,Antwerp
+12,35,Brazil,Both,Rio de Janeiro
+13,38,Bulgaria,Both,Sofia Open
+14,43,Canada,Both,Montreal / Toronto Masters
+15,48,Chile,Both,Santiago
+16,49,China PR,Both,Chengdu
+17,49,China PR,Both,Beijing
+18,49,China PR,Both,Shanghai Masters
+19,49,China PR,Both,Zhuhai
+20,51,Colombia,Female,Bogota
+21,56,Croatia,Both,Umag
+22,56,Croatia,Both,Makarska Open
+23,59,Czechia,Female,Prague
+24,76,France,Both,Montpellier
+25,76,France,Both,Marseille
+26,76,France,Both,Lyon
+27,76,France,Both,Strasbourg
+28,76,France,Both,French Open
+29,76,France,Both,Metz
+30,76,France,Both,Paris Masters
+31,76,France,Female,Lyon
+32,76,France,Female,St Malo
+33,76,France,Both,Trophee Lagardère
+34,80,Germany,Female,Stuttgart
+35,80,Germany,Both,Munich
+36,80,Germany,Both,Stuttgart
+37,80,Germany,Both,Halle
+38,80,Germany,Both,Hamburg
+39,80,Germany,Both,Karlsruhe 125k
+40,80,Germany,Female,Berlin
+41,80,Germany,Female,Bad Homburg
+42,250,Great Britain,Female,Nottingham
+43,250,Great Britain,Both,Birmingham
+44,250,Great Britain,Both,"Queens, London"
+45,250,Great Britain,Both,Eastbourne
+46,250,Great Britain,Both,Wimbledon
+47,1,World,Both,World Tour Finals
+48,176,Spain,Both,BBVA Open Internacional de Valencia
+49,92,Hungary,Both,Budapest
+50,94,India,Both,Chennai
+51,100,Italy,Both,Rome Masters
+52,100,Italy,Female,Palermo
+53,100,Italy,Both,Gaiba
+54,102,Japan,Male,Japan Open
+55,104,Kazakhstan,Both,Nur Sultan
+56,129,Mexico,Both,Acapulco
+57,129,Mexico,Both,Monterrey
+58,129,Mexico,Both,Los Cabos
+59,129,Mexico,Female,Guadalajara
+60,253,Monaco,Both,Monte Carlo Masters
+61,133,Morocco,Both,Marrakech
+62,133,Morocco,Both,Rabat
+63,138,Netherlands,Both,Rotterdam
+64,138,Netherlands,Both,s-Hertogenbosch
+65,155,Poland,Female,Poland Open
+66,156,Portugal,Both,Estoril
+67,158,Qatar,Both,Doha
+68,158,Qatar,Female,Doha
+69,160,Russia,Female,St Petersburg
+70,176,Spain,Both,Barcelona
+71,176,Spain,Both,Madrid Masters
+72,176,Spain,Both,Mallorca
+73,184,Sweden,Both,Bastad
+74,184,Sweden,Both,Stockholm
+75,185,Switzerland,Both,Geneva
+76,185,Switzerland,Female,Gstaad
+77,185,Switzerland,Both,Gstaad
+78,185,Switzerland,Both,Basel
+79,196,Türkiye,Female,Istanbul
+80,202,United Arab Emirates,Both,Dubai
+81,203,United States,Both,Delray Beach
+82,203,United States,Both,Indian Wells Masters
+83,203,United States,Both,Miami Masters
+84,203,United States,Both,Charleston
+85,203,United States,Both,Newport
+86,203,United States,Both,Atlanta
+87,203,United States,Both,Washington
+88,203,United States,Both,Cincinnati Masters
+89,203,United States,Both,Winston-Salem
+90,203,United States,Both,US Open
+91,203,United States,Both,USCC
+92,203,United States,Male,Dallas
+93,76,France,Female,Contrexeville
+95,43,Canada,Both,Granby Challenger
+96,43,Canada,Both,Vancouver Challenger
+97,59,Czechia,Both,Ostrava
+98,92,Hungary,Both,Budapest Open 125
+99,102,Japan,Both,Pan Pacific Open
+100,107,Korea Republic,Female,Korea Open
+101,159,Romania,Both,Iaşi Open
+102,172,Slovenia,Both,Portoroz
+103,203,United States,Female,San Jose
+104,203,United States,Female,Cleveland
+105,203,United States,Both,Concord 125k
+106,203,United States,Both,San Diego
+107,16,Argentina,Both,Buenos Aires 125k
+108,76,France,Both,Limoges 125k
+109,76,France,Both,Angers 125k
+110,129,Mexico,Both,Abierto Tampico
+111,129,Mexico,Both,Puerto Vallarta Open
+112,159,Romania,Female,Cluj-Napoca 2
+113,203,United States,Both,Dow Tennis Classic
+114,204,Uruguay,Both,Montevideo 125k
+115,100,Italy,Both,Bari
+116,94,India,Both,Chennai
+117,159,Romania,Both,București
+118,100,Italy,Both,Parma
+119,71,Estonia,Both,Tallinn Open
+120,99,Israel,Both,Tel Aviv Open
+121,195,Tunisia,Both,Monastir
+122,49,China PR,Female,World Tour Finals
+123,100,Italy,Both,Firenze Open
+124,100,Italy,Both,Napoli Cup
+125,129,Mexico,Both,Guadalajara 125k
+126,176,Spain,Both,Gijon Open
+127,76,France,Both,Open Rouen
+128,100,Italy,Both,Nitto ATP Finals
+129,48,Chile,Both,LP Open
+130,12,Andorra,Both,Andorra 125k
+131,19,Australia,Both,Hobart
+132,20,Austria,Both,Linz
+133,33,Bosnia and Herzegovina,Both,Banja Luka
+134,43,Canada,Female,Vancouver
+135,51,Colombia,Female,Cali
+136,76,France,Female,Paris
+137,94,India,Both,Pune
+138,104,Kazakhstan,Both,Astana
+139,129,Mexico,Female,Mérida
+140,141,New Zealand,Female,Auckland
+141,185,Switzerland,Both,Ladies Open Lausanne
+142,191,Thailand,Both,Hua Hin
+143,202,United Arab Emirates,Female,Dubai
+144,203,United States,Both,Houston
+145,203,United States,Female,Austin
+146,202,United Arab Emirates,Female,Abu Dhabi Open
+147,129,Mexico,Female,San Luis Potosi Open
+148,176,Spain,Female,Catalonia Open
+149,100,Italy,Female,Firenze Ladies Open
+150,176,Spain,Female,La Bisbal d'Empordá 125
+151,155,Poland,Both,Grodzisk Mazowiecki
+152,203,United States,Both,Stanford
+153,51,Colombia,Female,Barranquilla Open
+154,203,United States,Both,Chicago 125k
+155,172,Slovenia,Female,Ljubljana 125
+156,49,China PR,Female,Guangzhou Open
+157,49,China PR,Both,Ningbo Challenger
+158,49,China PR,Both,Zhengzhou
+159,91,Hong Kong SAR,Female,Hong Kong
+160,49,China PR,Both,Nanchang
+161,49,China PR,Both,WTA International Finals
+162,102,Japan,Female,Japan Open
+163,35,Brazil,Female,Florianopolis
+164,19,Australia,Both,Brisbane
+165,19,Australia,Female,Canberra 125k
+166,91,Hong Kong SAR,Male,Hong Kong
+167,94,India,Both,Mumbai 125k
+168,196,Türkiye,Both,Antalya 125k
+169,203,United States,Both,Charleston 125k
+170,208,Vietnam,Female,Da Nang 125k
+171,156,Portugal,Female,Oeiras Ladies Open 
+172,159,Romania,Male,Țiriac Open
+173,32,Bolivia,Female,Bolivia Open
+174,49,China PR,Both,Wuhan Open
+175,49,China PR,Both,Hangzhou Open
+176,224,Serbia,Both,Belgrade 2
+177,141,New Zealand,Male,Auckland
+178,170,Singapore,Both,Singapore
+179,1,World,Male,United Cup
+180,1,World,Male,Laver Cup
+181,250,Great Britain,Female,London
+182,129,Mexico,Female,Cancun
+183,80,Germany,Female,Hamburg
+184,250,Great Britain,Both,Ilkley Challenger
+185,100,Italy,Both,Grado
+186,100,Italy,Female,Rome 125
+187,156,Portugal,Female,Porto 125
+188,35,Brazil,Both,Sao Paulo
+189,49,China PR,Both,Suzhou Challenger
+190,49,China PR,Female,Changsha 125k
+191,49,China PR,Female,Huzhou 125k
+192,49,China PR,Both,Jingshan
+193,100,Italy,Female,Tolentino 125k
+194,100,Italy,Female,Cosenza 125k
+195,156,Portugal,Female,Caldas da Rainha 125k
+196,176,Spain,Female,San Sebastian 125k
+197,185,Switzerland,Female,Montreux 125k
+198,196,Türkiye,Female,Samsun 125k
