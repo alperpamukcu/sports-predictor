@@ -8,7 +8,7 @@ class Settings(BaseModel):
     base_url: str = Field(
         default_factory=lambda: os.getenv(
             "SPORTSDATA_BASE_URL",
-            "https://api.sportsdata.io/v3/tennis/scores/json"  # v3 default
+            "https://api.sportsdata.io/v3/tennis/scores/json"
         )
     )
     api_key: str = Field(default_factory=lambda: os.getenv("SPORTSDATA_API_KEY", ""))

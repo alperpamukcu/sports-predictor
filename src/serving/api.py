@@ -1,18 +1,11 @@
-from fastapi import FastAPI, Query, HTTPException
-from datetime import date
-from src.data.fetch_tennis import (
-    list_competitions, list_players, list_venues, list_disciplines, schedule_by_date
-)
+from fastapi import FastAPI, Query
+from src.data.fetch_tennis import list_competitions, list_players, list_venues
 
-app = FastAPI(title="Tennis Predictor API (skeleton)")
+app = FastAPI(title="Tennis Predictor API")
 
 @app.get("/health")
 def health():
     return {"status": "ok"}
-
-@app.get("/disciplines")
-def disciplines():
-    return list_disciplines()
 
 @app.get("/competitions")
 def competitions():
@@ -20,7 +13,6 @@ def competitions():
 
 @app.get("/players")
 def players(q: str | None = None, limit: int = 50):
-    """Basit arama: ?q=rafa gibi; yoksa tüm liste (limitli) döner."""
     data = list_players()
     if q:
         ql = q.lower()
@@ -38,10 +30,3 @@ def players(q: str | None = None, limit: int = 50):
 @app.get("/venues")
 def venues():
     return list_venues()
-
-@app.get("/schedule")
-def schedule(day: date = Query(..., description="YYYY-MM-DD")):
-    try:
-        return schedule_by_date(day)
-    except Exception as e:
-        raise HTTPException(status_code=501, detail=str(e))
